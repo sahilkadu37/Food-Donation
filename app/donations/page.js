@@ -1,3 +1,12 @@
+import React from 'react'
+
+const page = () => {
+  return (
+    <div>page</div>
+  )
+}
+
+export default page
 // import dbConnect from '@/lib/mongodb';
 // import Donation from '@/models/Donation';
 // import jwt from 'jsonwebtoken';
